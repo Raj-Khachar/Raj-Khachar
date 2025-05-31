@@ -1,5 +1,5 @@
 <!--## Hi there 👋-->
-@"
+
 # 👋 Hello, I'm Raj Khachar!
 
 I am an aspiring Full-Stack Developer with a strong passion for building modern, efficient, and scalable web applications.  
@@ -40,4 +40,3 @@ Here are some ideas to get you started:
 
 
 
-"@ | Out-File -Encoding utf8 README.md
